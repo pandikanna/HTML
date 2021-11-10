@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HYPER LINKS</h2>
+
+<p><a href="https://www.google.com/" target="_blank">Google</a> </p>               <!-- Target Attribute -->
+<p><a href="https://www.google.com/" target="_self">Google</a></p> 
+<p><a href="https://www.google.com/"target="_parent">Google</a></p> 
+<p><a href="https://www.google.com/"target="_top">Google</a></p> 
+
+<p><a href="https://www.google.com/">Google</a></p>                                 <!-- Absolute URL -->
+
+<p><a href="C:\Users\kali raj\Desktop"">Child Images</a></p>                        <!-- Relative URL -->
+
+<p><a href="https://www.google.com/">
+<img src="smiley.gif" alt="link" style="width:42px;height:42px;">                   <!-- Image as a Link -->             
+</a></p>
+
+<p><a href="mailto:kannanpandi944@gmail.com">Send email</a></p>                     <!-- Link to an Email Address -->
+
+<p><button onclick="https://www.google.com/">Google Button</button></p>             <!-- Button as a Link -->        
+
+<a href="https://www.google.com/" title="Go to  Google">Google Website</a>          <!-- Tittle as a Link --> 
+
+</body>
+</html>
+
