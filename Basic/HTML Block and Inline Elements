@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<div style="background-color:black;color:white;padding:20px;">                <!-- Block level Elements -->
+  <h2>My Family</h2>
+  <p> My family is evrything of me. My family is supported me                 <!-- div Elements -->             
+  and i love my family very much</p> 
+</div> 
+
+<p>My mother has <span style="color:blue;font-weight:bold">blue</span>        <!-- Inline Elements -->
+eyes and my father has <span style="color:red;font-weight:bold"               <!-- Span Elements -->
+>dark pink</span> eyes.</p>
+
+</body>
+</html>
