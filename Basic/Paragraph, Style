@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>HTML</h1>
+<p style="font-family:courier;>HTML Style Attribute</p>                      <!-- style attribute-->
+<p style="text-align:center>Text alignment</p> 
+<p style="background color:red>Back ground</p> 
+<p style="font family:verdana>Font family</p> 
+<p style="color:blue>Text color</p> 
+
+<hr>
+<h2>Horizontal Rules</h2>                                                    <!-- Horizontal Rules-->
+<p>Separate content in HTML Page</p>
+<hr>
+
+<p style="background color:red>Text alignment</p>                            <!-- Line break-->
+
+<p>Pre Formatted Text</p> 
+<pre>
+  The sky is blue.                                                           <!-- Pre element-->
+  The sea is blue.
+  the water is blue.
+</pre>
+
+</body>
+</html>
