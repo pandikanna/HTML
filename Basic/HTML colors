@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:DodgerBlue;">Hello World</h1>                        <!-- Background color -->
+
+<h1 style="color:Tomato;">Hello World</h1>                                       <!-- Text color -->
+
+<h1 style="border:2px solid Tomato;">Hello World</h1>                            <!-- border color -->
+
+<h1 style="background-color:rgb(255, 0, 0);">HTML RGB and RGBA Colors</h1>       <!-- RGB and RGBA Colors -->
+
+<h1 style="background-color:#404040;">HTML HEX Colors</h1>                       <!-- HEX Colors -->
+
+<h1 style="background-color:hsl(39, 100%, 50%);">HTML HSL and HSLA Colors</h1>   <!-- HSL and HSLA Colors -->
+
+</body>
+</html>
+
