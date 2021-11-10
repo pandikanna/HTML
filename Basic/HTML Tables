@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;                                                         <!-- Table borders -->
+   border-style: double;
+    background-color: pink;
+   
+  padding-top: 10px;                                                             <!--Table Padding & Spacing  -->
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+
+}
+td:nth-child(even), th:nth-child(even) {                                         <!--Table Styling -->
+  background-color: #D6EEEE;
+}
+</style>
+<body>
+
+<h1 style="text-align:center;"> Caller List</h1>
+                                                                                  <!-- Table cells -->
+<table style="width:100%">                                                        <!-- Table size -->
+  <tr>                                                                            <!-- Table rows -->
+    <th>Name</th>                                                                 <!-- Table headers -->
+    <td>siva</td>
+  </tr>
+  
+  <tr>
+    <th rowspan="2">Phone</th>                                                   <!--  Table Colspan & Rowspan -->
+    <td>555-1234</td>
+  </tr>
+  <tr>
+    <td>555-8745</td>
+  </tr>
+   <tr>
+    <th>Name</th>
+    <td>ravi</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Phone</th>
+    <td>999-1234</td>
+  </tr>
+  <tr>
+    <td>999-8745</td>
+  </tr>
+</table>
+
+
+</body>
+</html>
+
