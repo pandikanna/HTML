@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="text-align:center; "> HTML Formatting </h1> 
+
+<p><b>This text is bold.</b></p>                                            <!-- HTML <bold> Element -->
+
+<strong>The Element defines text with strong importance </strong>           <!-- HTML <strong> Element -->
+
+<p><i>The Element defines text is italic </i>  </p>                          <!-- HTML <i> Element -->
+
+<p><em>The Element defines text is emphasized</em> </p>                      <!-- HTML <em> Element -->
+
+<p><small>The Element defines text is smaller text.</small></p>              <!-- HTML <small> Element -->
+
+<p>The Element defines text is <mark>marked</mark> or highlighted</p>        <!-- HTML <matk> Element -->
+
+<p>My favorite color is <del>blue</del> red.</p>                             <!-- HTML <del> Element -->
+
+<p>My favorite color is <del>blue</del> <ins>red</ins>.</p>                  <!-- HTML <ins> Element -->
+
+<p>The Element defines text is  <sub>subscripted</sub> text.</p>             <!-- HTML <sub> Element -->
+
+<p>The Element defines text is  <sup>superscripted</sup> text.</p>           <!-- HTML <sup> Element -->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
