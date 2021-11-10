@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="text-align:center;">HTML LIST</h1>
+
+<h2>DESCRIOTION LIST</h2>
+
+<dl>
+  <dt>Juice</dt>
+  <dd>- apple juice</dd>
+  <dt>Ice Cream</dt>
+  <dd>- cup ice cream</dd>
+</dl>
+
+<h2>ORDERED LIST</h2>
+<p>Lists can be nested (list inside list):</p>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea
+    <ol>
+      <li>Black tea</li>
+      <li>Green tea</li>
+    </ol>
+  </li>
+  <li>Milk</li>
+</ol>
+
+<h2>UNORDERED LIST</h2>
+<ul style="list-style-type:square;">
+  <li>Cake</li>
+  <li>Tea</li>
+  <li>Juice</li>
+</ul>
+
+</body>
+</html>
+
