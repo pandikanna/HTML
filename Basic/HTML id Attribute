@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2 style="text-align:center;"> ID Attribute</h2>
+
+<h1 id="reply">Hi Guys!</h1>                                                   <!-- id attribute -->
+<button onclick="displayResult()">Change text</button>
+
+<script>
+function displayResult() {
+  document.getElementById("reply").innerHTML = "Thank you so much guys!";      <!-- id Attribute in JavaScript -->
+}
+</script>
+
+</body>
+</html>
+
